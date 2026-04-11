@@ -17,7 +17,7 @@
     "paths": {
       "@/*": ["./app/*"]
     },
-    "esModuleInterop": true,
+    "esModuleInterop": true,  
     "verbatimModuleSyntax": true,
     "noEmit": true,
     "resolveJsonModule": true,
