@@ -34,7 +34,7 @@ This project introduces an **AI-powered, real-time hospital management system** 
 * ⚡ Automates alerts and workflows
 * 📈 Provides actionable insights through dashboards
 
-Such systems can **predict bed demand, analyze trends, and send automated alerts** to prevent overload situations. ([GitHub][1])
+Such systems can **predict bed demand, analyze trends, and send automated alerts** to prevent overload situations. 
 
 ---
 
