@@ -13,7 +13,7 @@ This system integrates **real-time monitoring, predictive analytics, and automat
 ---
 
 ## 🎯 Problem Statement
-
+ 
 Modern healthcare systems face major challenges:
 
 * ❌ Lack of real-time monitoring of hospital resources
