@@ -19,7 +19,7 @@ Modern healthcare systems face major challenges:
 * ❌ Lack of real-time monitoring of hospital resources
 * ❌ Manual and inefficient administrative processes
 * ❌ Poor prediction of patient load and staff utilization
-* ❌ Delayed decision-making during critical situations
+* ❌ Delayed decision-making during critical situations 
 
 These limitations can lead to **overcrowding, resource shortages, and reduced patient care quality**.
 
