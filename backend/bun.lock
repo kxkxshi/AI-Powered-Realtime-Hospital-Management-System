@@ -8,7 +8,7 @@
         "@better-auth/mongo-adapter": "^1.5.3",
         "@google/generative-ai": "^0.24.1",
         "@polar-sh/better-auth": "^1.8.3",
-        "@polar-sh/sdk": "^0.46.4",
+        "@polar-sh/sdk": "^0.46.4", 
         "@types/cookie-parser": "^1.4.10",
         "@types/cors": "^2.8.19",
         "@types/express": "^5.0.6",
