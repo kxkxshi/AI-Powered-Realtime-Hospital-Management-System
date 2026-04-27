@@ -8,7 +8,7 @@
     "start:inngest": "npx inngest-cli@latest dev",
     "start:server": "nodemon --exec bun run src/server.ts",
     "dev": "concurrently -c \"blue,magenta,cyan\" -n \"SERVER,NGROK,INNGEST\" \"bun run start:server\" \"bun run start:ngrok\" \"npm run start:inngest\""
-  },
+  }, 
   "devDependencies": {
     "@types/bun": "latest",
     "concurrently": "^9.2.1",
