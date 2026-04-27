@@ -79,7 +79,7 @@ Such systems can **predict bed demand, analyze trends, and send automated alerts
 * Integration-ready architecture
 
 ---
-
+ 
 ## 🏗️ System Architecture
 
 ```
